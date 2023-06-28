@@ -9,7 +9,7 @@ const Home = () => {
       </h1>
       <p className="desc text-center">
         Promptopia is an open source AI prompting tool for modern world to
-        discover, craete and share creative imports
+        discover, create and share creative imports
       </p>
       <Feed/>
     </section>
